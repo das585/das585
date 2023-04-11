@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @das585
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently learning C, C++, R, Data Structures
+- 👀 I’m interested in wearables, networking, green tech, and data engineering/warehousing.
+- 🌱 I’m currently learning MonkeyC and Zig
 
+I am a programmer at Ivy Computer Inc, Waterburry VT. I save time!
 
 <!---
 das585/das585 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
